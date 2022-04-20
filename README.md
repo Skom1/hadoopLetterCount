@@ -9,4 +9,4 @@ Se implementa un contador de letras simples y se ejecuta usando Hadoop (Una impl
 
 Se programó solamente LetterCount, WordCount es un codigo creado por Aidan Hogan para el entendimiento del problema.
 
-Se utilizaron datos albergados en un cluster de la Universidad De Chile. 
+Se utilizaron datos albergados en un HDFS de la Universidad De Chile. 
